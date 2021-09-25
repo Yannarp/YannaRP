@@ -1,7 +1,5 @@
  <h1 align="center">Hi there! Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;"></h1>
 
-##
-
 <p align="center">I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!</p>
 
 ##
@@ -27,9 +25,9 @@
  ##
  
 <div>
-</a> 
+ 
 <a href = "mailto:yanna.pecanha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yanna-peçanha-62988585/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/yanna-peçanha-62988585/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 <img src="https://github.com/yannarp/yannarp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
