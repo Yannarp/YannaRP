@@ -35,10 +35,11 @@
  <a href = "mailto:yannarp@hotmail.com"><img src="https://camo.githubusercontent.com/be08f7a1c998ec3e477fd0d3cc0e7fa39255cce4e77daf537e80c0f33e4d87d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;">
 <a href = "mailto:yanna.pecanha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/yanna-peçanha-62988585/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- <a href="https://api.whatsapp.com/send?phone=55591981697064" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/b716bc785c1435b7368e69e383d00e148ce01fac186e26070ac984309a4f33fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174736170702d3443413134333f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d344341313433266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" title="Text me" align="right" alt="Whatsapp" data-canonical-src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
-</a>
- <img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
+ 
+ <a href="https://api.whatsapp.com/send?phone=55591981697064&amp;text=mensagem%20de%20exemplo" rel="nofollow"><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+ 
+ 
+    
 
 <img src="https://github.com/yannarp/yannarp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
