@@ -1,6 +1,6 @@
  <h1 align="center">Hi there! Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;">
  <img align="right" height="140" width="140" 
- src="https://camo.githubusercontent.com/109fbb5e07fecc27f4730291e19e1f95c1a20806517888af256f12e0cfb23d87/68747470733a2f2f7777772e637269617262616e6e65722e636f6d2e62722f6372696172676966732f612f66663866393633363266666334356337353361366464333336363739623037632e676966" data-canonical-src="https://www.criarbanner.com.br/criargifs/a/ff8f96362ffc45c753a6dd336679b07c.gif" style="max-width: 100%;">
+ src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif" style="max-width: 100%;">
 </h1>
 
 <p align="center">I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!</p>
