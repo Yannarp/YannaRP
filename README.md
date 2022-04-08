@@ -21,11 +21,14 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"alt="Yan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
   <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yan-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yan-Node" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
+  
  <img align="right" alt="ju-pic" height="150" src="https://camo.githubusercontent.com/8958f255c0e4b3817c73e875768e5daea2612042ff81f40eea4a9696b4ba3d31/68747470733a2f2f7468756d62732e6766796361742e636f6d2f41646f7261626c6549646f6c697a6564477261796c696e672e77656270" data-canonical-src="https://thumbs.gfycat.com/AdorableIdolizedGrayling.webp" style="max-width: 100%;"> 
 </div>
 
