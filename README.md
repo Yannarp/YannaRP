@@ -29,8 +29,11 @@
   <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yan-Node" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
   
- <img align="right" alt="ju-pic" height="150" src="https://camo.githubusercontent.com/8958f255c0e4b3817c73e875768e5daea2612042ff81f40eea4a9696b4ba3d31/68747470733a2f2f7468756d62732e6766796361742e636f6d2f41646f7261626c6549646f6c697a6564477261796c696e672e77656270" data-canonical-src="https://thumbs.gfycat.com/AdorableIdolizedGrayling.webp" style="max-width: 100%;"> 
-</div>
+ 
+ <img align="right" alt="ya-pic" height="150" 
+ src="https://user-images.githubusercontent.com/81976280/162854796-f0d61512-7506-405e-a695-ca337cf7e13b.gif" style="max-width: 100%;"> 
+ </div>
+
 
  ##
  
