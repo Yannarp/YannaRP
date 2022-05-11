@@ -16,7 +16,7 @@
     
 </div>
 
-  ##
+  ## Languages and Tools:
 
 <div>
 <div style="display: inline_block"><br>
@@ -28,12 +28,15 @@
   <img align="center" alt="Yan-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Yan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yan-Node" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
+  <img align="center" alt="Yan-code" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
   
  
  <img align="right" alt="ya-pic" height="150" src="https://camo.githubusercontent.com/8958f255c0e4b3817c73e875768e5daea2612042ff81f40eea4a9696b4ba3d31/68747470733a2f2f7468756d62732e6766796361742e636f6d2f41646f7261626c6549646f6c697a6564477261796c696e672e77656270" data-canonical-src="https://thumbs.gfycat.com/AdorableIdolizedGrayling.webp" style="max-width: 100%;">
 </div>
 
- ##
+ 
+ 
+ ## :dart: Connect With Me:
  
 <div>
  <a href = "mailto:yannarp@hotmail.com"><img src="https://camo.githubusercontent.com/be08f7a1c998ec3e477fd0d3cc0e7fa39255cce4e77daf537e80c0f33e4d87d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;">
