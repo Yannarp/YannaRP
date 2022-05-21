@@ -4,8 +4,8 @@
 
 <p align="center">I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!</p> 
 
-<div align="center" height="135px">
-<img src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif" style="max-width: 100%;">
+<div align="center" >
+<img height="135" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif" style="max-width: 100%;">
 </div>
 
 ##
