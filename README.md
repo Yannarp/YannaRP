@@ -1,5 +1,4 @@
- <h1 align="center">Hi there! Welcome 
- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;">
+ <h1 align="center">Hi there! Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="30px" > 
 </h1>
 
 <p align="center">I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!</p> 
