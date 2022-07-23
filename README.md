@@ -1,11 +1,16 @@
  <h1 align="center">Hi there! Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="30px" > 
 </h1>
 
-<p align="center">I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!</p> 
 
 <div align="center" >
 <img height="135" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif" style="max-width: 100%;">
 </div>
+
+
+<li>:computer: Front-End Developer</li>
+<li>:earth_americas: Portuguese [Native] + English + Spanish</li>
+<li>:mortar_board: Studying Systems Analysis and Development</li>
+<li>:blue_heart: I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!</li>
 
 ##
 
