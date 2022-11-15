@@ -1,26 +1,17 @@
- <h1 align="center">Hi there! Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="30px" > 
-</h1>
+<img width="100%" src="https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=header" style="max-width: 100%;">
 
 
-<div align="center" >
-<img height="135" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif" style="max-width: 100%;">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+MY+NAME+is+Yanna+Peçanha;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<li>:computer: Front-End Developer</li>
-<li>:earth_americas: Portuguese [Native] + English + Spanish</li>
-<li>:mortar_board: Studying Systems Analysis and Development</li>
-<li>:blue_heart: I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!</li>
 
-##
 
-<div align="center">
-  <a href="https://github.com/Yannarp">
-     <img height="137px" width="400em" src="https://camo.githubusercontent.com/8afc762537bd20b447b6d9df63b9352ae90187dbdcd4cd8566fdca2d69339fa9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a6573736963616b6f70707326686964655f7469746c653d7472756526686964655f626f726465723d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c696e655f6865696768743d323626746578745f636f6c6f723d3030302669636f6e5f636f6c6f723d3030302662675f636f6c6f723d302c6561363136312c6666633634642c6666666334642c353266613561267468656d653d677261797768697465" data-canonical-src="https://github-readme-stats.vercel.app/api?username=yannarp&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=26&amp;text_color=000&amp;icon_color=000&amp;bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&amp;theme=graywhite" style="max-width: 100%;">
 
-<img height="137px" src="https://camo.githubusercontent.com/3b545252723d4e906385c1be1493794d55ac2e26254d3639d3983b403994d85c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6573736963616b6f70707326686964655f7469746c653d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d36266578636c7564655f7265706f3d636f6d703432362c52656476656e74757265732d4d6f7669652d51756f74657326746578745f636f6c6f723d3030302669636f6e5f636f6c6f723d6666662662675f636f6c6f723d302c3532666135612c3464666366662c633634646666267468656d653d677261797768697465" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannarp&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;exclude_repo=comp426,Redventures-Movie-Quotes&amp;text_color=000&amp;icon_color=fff&amp;bg_color=0,52fa5a,4dfcff,c64dff&amp;theme=graywhite" style="max-width: 100%;">
-    
-</div>
+
+
+
+
+
 
   ## Languages and Tools:
 
@@ -37,9 +28,7 @@
   <img align="center" alt="Yan-code" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
   
  
- <img align="right" alt="ya-pic" height="150" src="https://camo.githubusercontent.com/8958f255c0e4b3817c73e875768e5daea2612042ff81f40eea4a9696b4ba3d31/68747470733a2f2f7468756d62732e6766796361742e636f6d2f41646f7261626c6549646f6c697a6564477261796c696e672e77656270" data-canonical-src="https://thumbs.gfycat.com/AdorableIdolizedGrayling.webp" style="max-width: 100%;">
-</div>
-
+ 
  
  
  ## :dart: Connect With Me:
@@ -55,3 +44,9 @@
 
 <img src="https://github.com/yannarp/yannarp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
+ 
+  
+
+  
+
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
