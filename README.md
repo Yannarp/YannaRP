@@ -23,7 +23,6 @@
 
 
 
-<p  align="center" dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=YannaRP&amp;bg_color=0d1117&amp;color=fb047b&amp;line=fb7ecd&amp;point=ffbde0&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
 
 
 
