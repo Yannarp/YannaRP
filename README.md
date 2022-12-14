@@ -11,20 +11,6 @@
 
 
 
-<div align="center" dir="auto">  
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fee6185ff3ec39442b31b86b6a768eeba00b0ee3e70bc8cecf4ae3b441ceb125/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6361726f6c626172626f73613130312673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565267469746c655f636f6c6f723d6666393161342669636f6e5f636f6c6f723d66663931613426746578745f636f6c6f723d6339643164392662675f636f6c6f723d306431313137"><img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=YannaRP&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1088a0cee12a71b6ad3de5f8b4855acf26be1ef39d95e71911d9515d2f44aa59/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6361726f6c626172626f7361313031266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267469746c655f636f6c6f723d66663931613426746578745f636f6c6f723d6666393161342662675f636f6c6f723d306431313137"><img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&amp;layout=compact&amp;hide_border=true&amp;title_color=ff91a4&amp;text_color=ff91a4&amp;bg_color=0d1117" style="max-width: 100%;"></a>
-</div>
-
-
-
-
-#
-
-
-
-
-
 
 
 
