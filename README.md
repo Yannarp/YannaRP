@@ -6,8 +6,7 @@
 <img height="135" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif" style="max-width: 100%;">
   
   #
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YannaRP&amp;show_icons=true&amp;theme=moltack&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&amp;layout=compact&amp;langs_count=7&amp;theme=moltack" style="max-width: 100%;">
-
+ 
 </div>
 
 
