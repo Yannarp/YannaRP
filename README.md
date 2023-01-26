@@ -36,8 +36,6 @@
   
  
  
- 
- 
  ## :dart: Connect With Me:
  
 <div>
@@ -51,16 +49,6 @@
 
 <img src="https://github.com/yannarp/yannarp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 </div>
- 
-   
-   
-   <div align="center" dir="auto">
-<br><p align="centre" dir="auto"><b>Visitors Count</b></p>  
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/451781729441461e1b1b20fc06710cbd523fe049fac167843be97bc1c6021fa1/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f7b6361726f6c626172626f73613130317d2f636f756e742e737667"><img align="center" src="https://profile-counter.glitch.me/{YannaRP}/count.svg" style="max-width: 100%;"></a></p> 
-<br>
-</div>
-  
 
-  
 
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
