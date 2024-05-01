@@ -1,13 +1,11 @@
-<img width="100%" src="https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=header" style="max-width: 100%;">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+MY+NAME+is+Yanna+Ribeiro+Peçanha;I'm+from+Brazil;I+Graduated+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" >
 <img height="185" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif" style="max-width: 100%;">
   
-  #
  
-</div>
 
 
 <div align="center" dir="auto">
@@ -54,8 +52,6 @@
 <a href = "mailto:yanna.pecanha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/yanna-peçanha-62988585/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
-<img src="https://github.com/yannarp/yannarp/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
-</div>
 
 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/78337f3a09dc41b7c11d4f3acf2766c0a42a03e2b65a839b96aa9a1fd755799f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=footer" style="max-width: 100%;"></a>
+
