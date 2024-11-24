@@ -48,13 +48,7 @@
  <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Yan-Node" height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png">
   
-  ##  Let's Connect
  
-<div>
-
-<a href="mailto:yanna.pecanha@gmail.com"><img src="https://camo.githubusercontent.com/e7bc5c421baada3344b425312ab65c979db3b202afbd6ec830afe28608c1ae2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d46463030463626636f6c6f723a464646" alt="E-mail" data-canonical-src="https://img.shields.io/badge/-Email-000?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=FF00F6&amp;color:FFF" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/yanna-ribeiro-62988585/" rel="nofollow"><img src="https://camo.githubusercontent.com/ea4b880a0a8b740899303068ce1ba4fe85d731e6e76310c590054eff2e78d8b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d46463030463626636f6c6f723a464646" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FF00F6&amp;color:FFF" style="max-width: 100%;"></a>
-
   
 
 
