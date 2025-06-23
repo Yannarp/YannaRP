@@ -5,19 +5,23 @@
 
 
 
-  
 
 
 ##
 
-<img align="right" height="130" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif"  />
 
+<img height="150" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif"  />
+
+##
 
 
 <div align="left" dir="auto">
 <a href="https://github.com/YannaRP">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&layout=compact&langs_count=7&theme=synthwave"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YannaRP&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&layout=compact&langs_count=7&theme=synthwave"/>
+
+
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YannaRP&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 
 
