@@ -4,7 +4,6 @@
 
 
 
-
 ##
 
 <img align="right" height="130" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif"  />
@@ -17,19 +16,12 @@
 </div>
 
 
-  
-
-<div>
-
-
-
 
 
  ##
  
 
 <img align="right" height="140" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
-
 
 
 
@@ -53,13 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  
-  
-  
-  
-  
-  
-</div>
+  </div>
 
 
 
@@ -82,10 +68,10 @@
   
   <picture>
 
-  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yannaRP/yannaRP/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yannaRP/yannaRP/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yannaRP/yannaRP/output/pacman-contribution-graph.svg">
+  
 </picture>
 
 ###
