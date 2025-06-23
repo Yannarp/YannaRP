@@ -16,8 +16,8 @@
 
 <div align="left" dir="auto">
 <a href="https://github.com/YannaRP">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&layout=compact&langs_count=7&theme=synthwave"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=YannaRP&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&layout=compact&langs_count=7&theme=synthwave"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=YannaRP&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -33,7 +33,7 @@
  ##
  
 
-<img align="right" height="150" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
+<img align="right" height="140" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
 
 
 
