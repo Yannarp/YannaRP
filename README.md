@@ -1,8 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+I'm+Yanna+Ribeiro;I'm+a+programming+enthusiast;and+a+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Yanna+👋;Tech+lover+and+coffee+addict+☕💻;Developer+in+constant+evolution+🚀;Building+cool+stuff+with+code+✨;Welcome+to+my+GitHub+space!+🎉)](https://git.io/typing-svg)
 
 
 
