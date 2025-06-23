@@ -9,23 +9,18 @@
 
 ##
 
-
-<img height="150" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif"  />
-
-##
+<img align="right" height="130" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif"  />
 
 
 <div align="left" dir="auto">
 <a href="https://github.com/YannaRP">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&layout=compact&langs_count=7&theme=synthwave"/>
-
-
-  
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YannaRP&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannaRP&layout=compact&langs_count=7&theme=synthwave"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=YannaRP&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 
 
   
+
 <div>
 
 
@@ -45,6 +40,7 @@
 
 
 <div align="left">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -58,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  
   
   <img align="" alt="Yan-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   
