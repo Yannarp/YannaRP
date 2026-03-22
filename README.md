@@ -1,3 +1,9 @@
+<div>
+  <img 
+    style="width: 100%; display: block;" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=90&fontAlignY=50&stroke=-&descSize=20&descAlign=90&descAlignY=90&color=gradient"  
+  />
+</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Yanna+👋;Tech+lover+and+coffee+addict+☕💻;Developer+in+constant+evolution+🚀;Building+cool+stuff+with+code+✨;Welcome+to+my+GitHub+space!+🎉)](https://git.io/typing-svg)
