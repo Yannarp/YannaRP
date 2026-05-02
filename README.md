@@ -9,24 +9,26 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=YannaRP&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=YannaRP&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="" />
 
- <img align="right" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="120">
+
+ 
 </div>
 
 ##
 
+
  
 
-<img align="right" height="150" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
+<img align="right" height="140" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif"  />
+
 
 
 
 
 ### 🛠️ Skills
-
 
 
   <div align="left">
@@ -77,4 +79,7 @@
 </picture>
 
 ###
+
+
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
 
