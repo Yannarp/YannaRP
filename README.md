@@ -7,11 +7,8 @@
 <img align="center" height="170" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif"  />
 </div>
 
-##
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YannaRP&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=YannaRP&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="" />
+
 
 
  
