@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Yanna+👋;Tech+lover+and+coffee+addict+☕💻;Developer+in+constant+evolution+🚀;Building+cool+stuff+with+code+✨;Welcome+to+my+GitHub+space!+🎉)](https://git.io/typing-svg)
 
-##
+
 <div align="center">
 <img align="center" height="170" src="https://user-images.githubusercontent.com/81976280/147687430-8020ddb4-28e4-4360-b387-ba48955c6778.gif"  />
 </div>
